@@ -30,15 +30,3 @@
   <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/wakatime?username=sharlottes&layout=compact&theme=radical&text_color=77ddff&langs_count=8&range=all_time">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sharlotte" alt="">
 </p>
-
-## Wakatime Stats
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   8 hrs 33 mins   ███████████████████████▓░   95.29 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
-
-<!--END_SECTION:waka-->
