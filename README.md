@@ -26,7 +26,7 @@
 ## Stats
 <p>
   <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api?username=sharlottes&include_all_commits=true&count_private=true&show_icons=true&theme=radical&text_color=77ddff&custom_title=Github%20Stats">
-  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/top-langs/?username=sharlottes&layout=compact&theme=radical&text_color=77ddff&langs_count=8">
-  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/wakatime?username=sharlottes&layout=compact&theme=radical&text_color=77ddff&langs_count=8&range=all_time">
+  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/top-langs/?username=sharlottes&include_all_commits=true&count_private=true&layout=compact&theme=radical&text_color=77ddff&langs_count=8">
+  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/wakatime?username=sharlottes&include_all_commits=true&count_private=true&layout=compact&theme=radical&text_color=77ddff&langs_count=8&range=all_time">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sharlotte" alt="">
 </p>
