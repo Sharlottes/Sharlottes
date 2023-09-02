@@ -26,4 +26,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [<img align="top" width="390" alt="" src="https://gist.githubusercontent.com/Sharlottes/622837756cbda07e02459b5120c795d9/raw/more-metrics.svg">](#)
 
+<hr />
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharlottes&theme=github-compact&area=true&hide_border=true)
