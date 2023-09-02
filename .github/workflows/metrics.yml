@@ -1,0 +1,76 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Base Profile
+        uses: lowlighter/metrics@latest
+        with:
+          filename: base-profile.svg
+
+          # General Options
+          config_timezone: Asia/Seoul
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: header
+          config_order: base.header, isocalendar, followup, languages, music
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_languages: yes
+          plugin_languages_limit: 4
+          plugin_languages_threshold: 5%
+          plugin_languages_ignored: html, css, shaderlab
+
+          # music
+          plugin_music: yes
+          plugin_music_provider: youtube
+          plugin_music_token: ${{ secrets.PLAYLIST }}
+          plugin_music_mode: recent
+          plugin_music_limit: 8
+          plugin_music_played_at: yes
+
+      - name: More Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: more-metrics.svg
+
+          # General Options
+          config_timezone: Asia/Seoul
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: people, topics, notable, code
+
+          # Peoples (followers)
+          plugin_people: yes
+          plugin_people_limit: 30
+          plugin_people_thanks: sk7725
+          plugin_people_types: followers, following, thanks
+
+          # Star
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+          # Notable
+          plugin_notable: yes
+
+          # daily Code Snippet
+          plugin_code: yes
+          plugin_code_days: 1
+          plugin_code_lines: 30
+          plugin_code_languages: java, javascript, typescript, c#

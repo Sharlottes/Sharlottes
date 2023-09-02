@@ -16,12 +16,14 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <p>
-  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api?username=sharlottes&include_all_commits=true&count_private=true&show_icons=true&theme=radical&text_color=77ddff&custom_title=Github%20Stats">
-  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/top-langs/?username=sharlottes&include_all_commits=true&count_private=true&layout=compact&theme=radical&text_color=77ddff&langs_count=8">
-  <img height="180em" src="https://github-readme-stats-sharlottes.vercel.app/api/wakatime?username=sharlottes&include_all_commits=true&count_private=true&layout=compact&theme=radical&text_color=77ddff&langs_count=8&range=all_time">
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sharlotte">
+  <img width="390" src="https://github-readme-stats-sharlottes.vercel.app/api?username=sharlottes&include_all_commits=true&count_private=true&show_icons=true&theme=radical&text_color=77ddff&custom_title=Github%20Stats">
+  <img width="390" src="https://github-readme-stats-sharlottes.vercel.app/api/wakatime?username=sharlottes&include_all_commits=true&count_private=true&layout=compact&theme=radical&text_color=77ddff&langs_count=8&range=all_time">
 </p>
 
----
+<hr />
+
+[<img align="top" width="390" alt="" src="https://gist.githubusercontent.com/Sharlottes/622837756cbda07e02459b5120c795d9/raw/base-profile.svg">](#)
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+[<img align="top" width="390" alt="" src="https://gist.githubusercontent.com/Sharlottes/622837756cbda07e02459b5120c795d9/raw/more-metrics.svg">](#)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharlottes&theme=github-compact&area=true&hide_border=true)
