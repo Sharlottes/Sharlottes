@@ -1,8 +1,10 @@
 <h1 align="center">
-  <ruby>
-    Sharlotte <rp>(</rp><rt>The <span title="경남대학교">KNU Univ.</span> Korean Developer<sup>(TM)</sup></rt><rp>)</rp>
+ <ruby>
+    <img src="https://github.com/Sharlottes/Sharlottes/assets/60801210/6c120d10-93ef-4d91-a0bd-58b36ff403db" width=270" alt="" />
+     <rp>(</rp><rt>The <span title="경남대학교">KNU Univ.</span> Korean Developer<sup>(TM)</sup></rt><rp>)</rp>
   </ruby>
 </h1>
+
 
 [![Github Badge](https://img.shields.io/badge/-sharlottes-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/sharlottes/)](https://www.github.com/sharlottes/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsharlottes%2Fsharlottes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
