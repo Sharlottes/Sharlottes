@@ -2,7 +2,7 @@
  <ruby>
     <img src="https://github.com/Sharlottes/Sharlottes/assets/60801210/6c120d10-93ef-4d91-a0bd-58b36ff403db" width=270" alt="" />
      <rp>(</rp><rt>The <span title="경남대학교">KNU Univ.</span> Korean Developer<sup>(TM)</sup></rt><rp>)</rp>
-  </ruby>
+  </ruby> 
 </h1>
 
 
